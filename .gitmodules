@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ensModelVis"]
+	path = ensModelVis
+	url = https://github.com/domijan/ensmodelvis
+	shallow = true
+	registered = true
