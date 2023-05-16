@@ -8,3 +8,8 @@
 	url = https://github.com/domijan/ensmodelvis
 	shallow = true
 	registered = true
+[submodule "tabuSearch"]
+	path = tabuSearch
+	url = https://gitlab.com/domijank/tabusearch
+	shallow = true
+	registered = true
