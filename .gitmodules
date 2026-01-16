@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "tabuSearch"]
 	path = tabuSearch
-	url = https://gitlab.com/domijank/tabusearch
+	url = https://github.com/domijan/tabusearch
